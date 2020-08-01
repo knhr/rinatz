@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![Rinat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinatz&show_icons=true&theme=onedark)
+<a href="https://github-readme-stats.vercel.app/api?username=rinatz&show_icons=true&theme=onedark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rinatz&show_icons=true&theme=onedark" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rinatz&hide=html,Makefile,Roff">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinatz&hide=html,Makefile,Roff" />
+</a>
 
 <!--
 **rinatz/rinatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
